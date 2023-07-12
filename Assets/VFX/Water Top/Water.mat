@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: -6465566751694194690, guid: 43f0346a61bb682488dbf41938da20b3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_e897af1315ea48988fd4db5e6728fdcd:
+        m_Texture: {fileID: 2800000, guid: c8f3bede18e7eef48b478a1f8dbb8623, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f021455252624e79af67fa08766a93b2:
+        m_Texture: {fileID: 2800000, guid: eb8063bb8b255d844bd8c948e11171d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_21f2f56829154820adbf902afcfdf9e1: 1
+    - Vector1_2583946122744ec29b776a22febc83a3: 8
+    - Vector1_4bb825529e6643d9a72c4adfc365fcd2: 0
+    - Vector1_b531f8c53a6b4fea9aa4c00570a1a409: 2.8
+    - Vector1_c1f35aecd93545a990eb0ee52f9137c0: 1.05
+    - Vector1_c76e3c8f53b74706abb72343b847dbf2: 1
+    - Vector1_e83f02e205814f57b07ca135c78c9a46: 0.36
+    m_Colors:
+    - Color_1c4c32661f8249119cd8509ca5cc58f2: {r: 0.09668918, g: 0.19989559, b: 0.5283019, a: 1}
+    - Color_368948333e414d8596d4bb0b3eea4636: {r: 0.3515308, g: 0.6034558, b: 0.8207547, a: 1}
+    - Vector2_22cf99a96f5b4b0689fd53d3c065a772: {r: 0.5, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []

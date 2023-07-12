@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Unused/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Screens/Start Screen.unity
+    guid: 771dbfb1e968b0a43a531bd07c3da88a
+  - enabled: 0
+    path: Assets/Scenes/Levels/Main Level/Main Level.unity
+    guid: e59e23c2f54f23d4583908c28e939a1e
+  - enabled: 1
+    path: Assets/Scenes/Screens/Win Screen.unity
+    guid: 95cb48cc1315f084687e7bc714463630
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/IntroCutscene.unity
+    guid: 6f3f821f1cb691743ad863bd12ab970f
+  - enabled: 1
+    path: Assets/Scenes/Screens/GameOverYouDied/GameOverYouDied.unity
+    guid: fe9b7a4a034247248b74a721f6c7b564
+  - enabled: 1
+    path: Assets/Scenes/Levels/Greybox Level/Greybox Level.unity
+    guid: e4b72f1b8ce3e6d46abcf20082142534
+  m_configObjects: {}
